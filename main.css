@@ -1,0 +1,21 @@
+.index{
+    background-color:rgb(158, 201, 199);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium';
+    color:black;
+}
+.History {
+font-family: 'Times New Roman';
+font-style: inherit;
+border: 3px;
+}
+
+.container{
+    font-family: fantasy;
+}
+
+.me{
+background-color: azure;
+}
