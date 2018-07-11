@@ -12,12 +12,17 @@ font-style: inherit;
 border: 3px;
 }
 
-.container{
+.containerH{
     font-family: 'fantasy';
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+
 }
 
 .me{
-background-color: azure;
+background-color:turquoise;
 }
 
 .container{
